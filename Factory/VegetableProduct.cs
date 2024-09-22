@@ -3,11 +3,11 @@
     public abstract class VegetableProduct
     {
         public string ProductName = "";
-        public float Price { get; set; } = 0;
-        public int Quantity { get; set; } = 0;
-        public float Total { get; set; } = 0;
-        public float TotalDiscount  { get; set; } = 0;
-        public int Free { get; set; } = 0;
+        public float Price = 0;
+        public int Quantity = 0;
+        public float Total = 0;
+        public float TotalDiscount = 0;
+        public int Free = 0;
 
         public VegetableProduct(string name, float price, int quantity = 0)
     {
