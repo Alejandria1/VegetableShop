@@ -1,0 +1,4 @@
+PRODUCT,QUANTITY
+Tomato,20
+Aubergine,25
+Carrot,3
